@@ -1,4 +1,8 @@
-<h2 align="left">Olá! Eu sou Williams, estudante de Engenharia de Computação pela UFPA</h2>
+<h2 align="left">Bem vindo! Eu sou Williams David, entusiasta e estudante de programação e tecnologia</h2>
+
+###
+
+<p align="left">Sou estudante de Engenharia de Computação pela Universidade Federal do Pará (UFPA), conheça meus projetos!</p>
 
 ###
 
@@ -9,12 +13,16 @@
 
 ###
 
+<p align="left">Entre minhas habilidades, além de design gráfico com Corel Draw e Adobe Photoshop, possuo também afinidade com Java em orientação a objetos e interface gráfica, afinidade com programação para o microcontrolador arduino e básico em python e C.</p>
+
+###
+
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />

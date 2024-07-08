@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Computação pela Universidade Federal do Pará (UFPA) e durante minha graduação, tenho criado muitas coisas interessantes conforme avanço em meus conhecimentos, venha conhecer!</p>
+<p align="left">Tenho 21 anos e sou estudante de Engenharia de Computação pela Universidade Federal do Pará (UFPA) desde 2021, e durante minha graduação, tenho criado muitas coisas interessantes conforme avanço em meus conhecimentos, venha conhecer!</p>
 
 ###
 

@@ -47,3 +47,7 @@
 </div>
 
 ###
+
+<p align="center">Bônus: Adobe Photoshop e Corel Draw para design e prototipação.</p>
+
+###

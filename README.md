@@ -1,4 +1,4 @@
-<h2 align="left">Bem vindo! Eu sou Williams David, entusiasta e estudante de programação e tecnologia.</h2>
+<h2 align="left">Bem vindo! Eu sou Williams David, programador frontend e estudante de programação e tecnologia.</h2>
 
 ###
 
@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">Tenho 21 anos e sou estudante de Engenharia de Computação pela Universidade Federal do Pará (UFPA) desde 2021, e durante minha graduação, tenho criado muitas coisas interessantes conforme avanço em meus conhecimentos.</p>
+<p align="left">Tenho 22 anos e sou estudante de Engenharia de Computação pela Universidade Federal do Pará (UFPA) desde 2021, e durante minha graduação, tenho criado muitas coisas interessantes conforme avanço em meus conhecimentos.</p>
+
+###
+
+<p align="left">Atuo como Frontend Developer, com experiência em React, HTML, CSS, JavaScript, adquirida ao longo dos diversos projetos que desenvolvi durante os últimos quatro anos, também sou entusiasta em UI/UX design, busco sempre unir design e código para criar produtos digitais dinâmicos, eficientes e visualmente apresentáveis.</p>
 
 ###
 

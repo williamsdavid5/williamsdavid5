@@ -1,4 +1,4 @@
-<h2 align="left">Bem vindo! Eu sou Williams David, programador frontend e estudante de programação e tecnologia.</h2>
+<h2 align="left">Bem vindo! Eu sou Williams David, programador frontend, designer e estudante de programação e tecnologia.</h2>
 
 ###
 
